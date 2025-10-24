@@ -1,6 +1,6 @@
-# Welcome to my first Todo app 👋
+# Welcome to my first React Native Project👋
 
-# 📝 React Native Todo App
+# 📝 Todo App
 
 A simple and modern **Todo App** built using **React Native** and **Expo**, powered by **Convex** as the backend and database.  
 This app allows users to **add**, **update**, and **delete** tasks with a clean UI and smooth user experience.
