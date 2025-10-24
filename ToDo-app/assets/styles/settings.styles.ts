@@ -29,7 +29,7 @@ export const createSettingsStyles = (colors: ColorScheme) => {
     },
     title: {
       fontSize: 32,
-      fontWeight: "700",
+      fontWeight: "800",
       letterSpacing: -1,
       color: colors.text,
     },

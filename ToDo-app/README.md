@@ -1,50 +1,41 @@
-# Welcome to your Expo app 👋
+# Welcome to my first Todo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# 📝 React Native Todo App
 
-## Get started
+A simple and modern **Todo App** built using **React Native** and **Expo**, powered by **Convex** as the backend and database.  
+This app allows users to **add**, **update**, and **delete** tasks with a clean UI and smooth user experience.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Features
 
-2. Start the app
+- ➕ **Add new todos** with ease  
+- ✏️ **Edit or update existing tasks**  
+- ❌ **Delete todos** you no longer need  
+- 🌗 **Dark/Light Mode Support** using custom `useTheme` context  
+- ⚡ **Real-time data sync** powered by **Convex**  
+- 🧩 **Interactive UI elements** such as Switch and Alert components
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+| Layer | Technology |
+|-------|-------------|
+| **Frontend** | React Native + Expo |
+| **Backend** | Convex |
+| **Database** | Convex Database |
+| **State Management** | React Custom Context API (`useTheme`) |
+| **UI Components** | React Native Switch, Alert, Components, etc.|
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+##  Install Dependencies
 
-When you're ready, run:
+npm install
+# or
+yarn install
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+“Stay organized, stay productive.” 💪
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
